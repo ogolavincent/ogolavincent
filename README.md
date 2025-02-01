@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ogolavincent
 - 👀 I love coding
 - 👨‍💻 I have skills in android development
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate with anyone
 
 
